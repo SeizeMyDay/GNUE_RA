@@ -1,0 +1,12 @@
+핀 연결
+
+2  센서1 Trig
+3  센서1 Echo
+4  센서2 Trig
+5  센서2 Echo
+8  센서3 Trig
+9  센서3 Echo
+
+10 센서1 LED
+11 센서2 LED
+12 센서3 LED
